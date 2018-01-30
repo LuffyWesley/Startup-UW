@@ -2412,6 +2412,18 @@
 
 /* Image */
 
+	.profile-avatar {
+		display: block;
+		position: relative;
+		margin: 36px auto 18px;
+		float: none;
+		border: 2px solid #d7d7d7;
+		border-radius: 50%;
+		width: 180px;
+		height: 180px;
+		overflow: hidden;
+	}
+
 	.image {
 		border: 0;
 		display: inline-block;
