@@ -1,2 +1,2 @@
-# StartupUW-Website
+# Startup UW
 Landing page for StartupUW.
